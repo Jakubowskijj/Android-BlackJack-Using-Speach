@@ -1,0 +1,1 @@
+A mobile game involving the selection of cards using the speach of use and specific passwords as commands, e.g. stop, means the end of drawing and comparison of the result with the opponent (random number from 17-21)
